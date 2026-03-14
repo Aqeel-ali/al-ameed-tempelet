@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>اختيار النموذج - شركة العميد</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #0D8E79;
+            --bg-color: #ffffff;
+            --text-color: #333333;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Cairo', sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            overflow: hidden;
+        }
+
+        .container {
+            text-align: center;
+            padding: 20px;
+            max-width: 800px;
+            width: 100%;
+        }
+
+        h1 {
+            color: var(--primary-color);
+            margin-bottom: 40px;
+            font-size: 2.5rem;
+        }
+
+        .buttons-wrapper {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .card {
+            background: white;
+            border: 2px solid #eee;
+            border-radius: 15px;
+            padding: 30px;
+            width: 280px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+        }
+
+        .card:hover {
+            border-color: var(--primary-color);
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(13, 142, 121, 0.1);
+        }
+
+        .card i {
+            font-size: 3rem;
+            color: var(--primary-color);
+            margin-bottom: 20px;
+        }
+
+        .card h2 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+
+        .card p {
+            font-size: 0.9rem;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        .btn {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 10px 25px;
+            border-radius: 25px;
+            font-weight: bold;
+            display: inline-block;
+            transition: background 0.3s;
+        }
+
+        .card:hover .btn {
+            background-color: #0a7362;
+        }
+
+        .disclaimer {
+            margin-top: 50px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-right: 4px solid var(--primary-color);
+            display: inline-block;
+            max-width: 600px;
+            font-size: 0.95rem;
+            color: #555;
+            border-radius: 4px;
+        }
+
+        /* Mobile Restriction */
+        #mobile-warning {
+            display: none;
+            padding: 20px;
+        }
+
+        #mobile-warning h2 {
+            color: #e74c3c;
+            margin-bottom: 15px;
+        }
+
+        @media (max-width: 768px) {
+
+            .buttons-wrapper,
+            h1 {
+                display: none;
+            }
+
+            #mobile-warning {
+                display: block;
+            }
+
+            body {
+                background-color: #f9f9f9;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>مرحباً بك في لوحة اختيار النماذج</h1>
+
+        <div class="buttons-wrapper">
+            <a href="./EduField - Education/index.html" class="card">
+                <div style="font-size: 50px; margin-bottom: 15px;">🎓</div>
+                <h2>النموذج الأول</h2>
+                <h4>EduField</h4>
+                <span class="btn" style="margin-top: 10px;">عرض النموذج</span>
+            </a>
+
+            <a href="./themehour/index.html" class="card">
+                <div style="font-size: 50px; margin-bottom: 15px;">🏢</div>
+                <h2>النموذج الثاني</h2>
+                <h4>ThemeHour</h4>
+                <span class="btn" style="margin-top: 10px;">عرض النموذج</span>
+            </a>
+        </div>
+
+        <div class="disclaimer">
+            <p>ملاحظة: جميع النصوص، الصور، والمحتوى في هذه النماذج هي بيانات عشوائية وغير حقيقية، مخصصة فقط لأغراض
+                التجربة والعرض.</p>
+        </div>
+
+        <div id="mobile-warning" class="container">
+            <div style="font-size: 60px; margin-bottom: 20px;">💻</div>
+            <h2>تنبيه: يجب استخدام الحاسوب</h2>
+            <p>عذراً، هذه النماذج مصممة للعرض على أجهزة الحاسوب الشخصي (Desktop) فقط. يرجى فتح الرابط من خلال متصفح
+                الحاسوب لمشاهدة النماذج بشكل صحيح.</p>
+        </div>
+    </div>
+
+</body>
+
+</html>
