@@ -1,0 +1,81 @@
+Arabic lines: 132
+9: <meta content="جامعة العميد - صرح علمي أكاديمي يسعى لتحقيق الريادة والتميز في التعليم الطبي والصحي" name="description"/>
+10: <meta content="جامعة العميد, كربلاء, العراق, طب, صيدلة, تمريض, أسنان" name="keywords"/>
+200: <li><a href="/كلمة-السيد-رئيس-الجامعة">University President</a></li>
+201: <li><a href="/كلمة-المساعد-العلمي">Scientific assistant</a></li>
+202: <li><a href="/كلمة-المساعد-الاداري">Administrative Assistant</a></li>
+203: <li><a href="/مجلس-الجامعة">University Council</a></li>
+204: <li><a href="/هيكلية-الجامعة">University structure</a></li>
+205: <li><a href="/أقسام-الجامعة">University departments</a></li>
+206: <li><a href="/المكتبة-المصورة">Illustrated library</a></li>
+211: <li><a href="/كلية-الطب">Faculty of Medicine</a></li>
+212: <li><a href="/كلية-طب-الأسنان">Faculty of Dentistry</a></li>
+213: <li><a href="/كلية-الصيدلة">Faculty of Pharmacy</a></li>
+214: <li><a href="/كلية-التمريض">Faculty of Nursing</a></li>
+215: <li><a href="/تحت-الأنشاء">College of Health and Medical Technologies</a></li>
+216: <li><a href="/كلية-التربية-الاساسية-للبنات">College of Basic Education for Girls</a>
+223: <li><a href="/أخبار-الجامعة">News</a></li>
+224: <li><a href="/الاعلانات">Advertisements</a></li>
+230: <li><a href="/مختبر-العميد-المركزي">Dean's Central Laboratory</a></li>
+231: <li><a href="/تسجيل-الطلبة-الأجانب">Registration of foreign students</a></li>
+232: <li><a href="/متابعة-تسجيل-الطلبة-الأجانب">Follow up on students’ registration requests
+234: <li><a href="/متابعة-طلبات-التعيين">Follow up on appointment requests</a></li>
+237: <li><a href="/المستندات-الجامعية">University documents</a></li>
+242: <li><a href="/من-نحن">Who are we?</a></li>
+243: <li><a href="/اتصل-بنا">Contact us</a></li>
+244: <li><a href="/صندوق-الشكاوى-والمقترحات">Complaints and Suggestions Box</a></li>
+254: <li><a href="/النشاطات-العلمية">Research</a></li>
+328: <li><a href="/التصنيفات-العالمية">Global rankings</a></li>
+329: <li><a href="/تعزيز-مبدأ-الشفافية">The principle of transparency</a></li>
+330: <li><a href="/مركز-التعليم-المستمر">Center for Continuing Education</a></li>
+331: <li><a href="/التنمية-المستدامة">sustainable development</a></li>
+332: <li><a href="/المكتبة-المركزية">Central Library</a></li>
+1643: "الغاء": "Cancel",
+1644: "منذ عام 1999، عندما تبنى فريق جامعة العميد تفويضه لبث حياة جديدة في المجال الأكاديمي، كان تحول الجامعة مذهلاً بكل المقاييس.": "Since 1999, as Al-Ameed University's team embraced its mission to renew academic life, the university's transformation has been extraordinary.",
+1645: "أحدث المقالات": "Latest Posts",
+1646: "رواد في آفاق أعضاء هيئة التدريس": "Pioneers in Faculty Horizons",
+1647: "التركيز على المستقبل: الاستعداد للغد": "Focus on the Future: Preparing for Tomorrow",
+1648: "المبادرة الخضراء: الاستدامة في العمل": "Green Initiative: Sustainability in Action",
+1649: "الوسوم الشائعة": "Popular Tags",
+1650: "ما الذي تبحث عنه؟": "What are you looking for?",
+1651: "الرئيسية": "Home",
+1652: "رئيسية الجامعة": "University Home",
+1653: "رئيسية القبول": "Admission Home",
+1654: "رئيسية الدورات": "Courses Home",
+1655: "عن الجامعة": "About the University",
+1656: "البرامج الأكاديمية": "Academic Programs",
+1657: "الصفحات": "Pages",
+1658: "المتجر": "Shop",
+1659: "تفاصيل المنتج": "Product Details",
+1660: "سلة التسوق": "Cart",
+1661: "الدفع": "Checkout",
+1662: "قائمة الأمنيات": "Wishlist",
+1663: "الكليات": "Colleges",
+1664: "كلية الطب": "College of Medicine",
+1665: "كلية طب الأسنان": "College of Dentistry",
+1666: "كلية الصيدلة": "College of Pharmacy",
+1667: "كلية التقنيات الصحية والطبية": "College of Health and Medical Technologies",
+1668: "قسم تقنيات عناية القلب": "Cardiac Care Technology Department",
+1669: "قسم تقنيات طب الطوارئ": "Emergency Medicine Technology Department",
+1670: "كلية التمريض": "College of Nursing",
+1671: "كلية التربية الأساسية للبنات": "Basic Education College for Girls",
+1672: "قسم اللغة الانكليزية": "English Department",
+1673: "قسم اللغة العربية": "Arabic Department",
+1674: "قسم رياض الأطفال": "Kindergarten Department",
+1675: "صفحة الخريجين": "Alumni Page",
+1676: "الأبحاث": "Research",
+1677: "تفاصيل البحث": "Research Details",
+1678: "التدريس": "Teaching",
+1679: "المدرسون": "Teachers",
+1680: "تفاصيل المدرس": "Teacher Details",
+1681: "الحياة الجامعية": "Campus Life",
+1682: "خطط الأسعار": "Pricing Plans",
+1683: "الأسئلة الشائعة": "FAQ",
+1684: "صفحة الخطأ": "Error Page",
+1685: "الفعاليات": "Events",
+1686: "صفحة الفعاليات": "Events Page",
+1687: "تفاصيل الفعالية": "Event Details",
+1688: "المدونة": "Blog",
+1689: "تفاصيل المقال": "Blog Details",
+1690: "المقال مع شريط جانبي": "Blog with Sidebar",
+1691: "اتصل بنا": "Contact Us",

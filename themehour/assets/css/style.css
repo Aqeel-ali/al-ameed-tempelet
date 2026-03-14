@@ -31588,40 +31588,55 @@ html[dir="rtl"] .faq-imgbox {
     color: var(--theme-color) !important;
 }
 
-/* 
 .header-button .search-form {
     display: flex;
     align-items: center;
     background-color: var(--theme-color);
+    border: 1px solid rgba(255, 255, 255, 0.2);
     border-radius: 30px;
-    padding: 5px 15px;
+    padding: 2px 15px;
+    /* Reduced vertical and horizontal padding */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease;
+    gap: 12px;
+    /* Slightly reduced gap */
+    width: 250px;
+    /* Reduced overall width */
+    max-width: 100%;
+    max-height: 70px;
+
 }
 
 .header-button .search-form:hover,
 .header-button .search-form:focus-within {
     box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
-    transform: translateY(-2px);
+    background-color: #0c7a68;
+    /* Slightly darker shade of the theme color */
+    transform: translateY(-1px);
+    border-color: rgba(255, 255, 255, 0.5);
+    width: 300px;
+    /* Reduced expansion width */
 }
 
 .header-button .search-form input {
     border: none !important;
     background: transparent !important;
     color: var(--white-color, #fff) !important;
-    padding: 5px 10px !important;
     outline: none !important;
-    width: 150px;
-    transition: width 0.3s ease;
+    flex: 1 !important;
+    /* Grows to fill space, pushing button to the end */
+    min-width: 0;
+    /* Prevents overflow in flex containers */
+    transition: all 0.3s ease;
+    font-size: 16px;
+    text-align: start;
+    /* Ensures text starts from the right in RTL and left in LTR */
 }
 
 .header-button .search-form input::placeholder {
     color: rgba(255, 255, 255, 0.7) !important;
 }
 
-.header-button .search-form input:focus {
-    width: 200px;
-}
 
 .header-button .search-form button {
     background: transparent !important;
@@ -31630,12 +31645,14 @@ html[dir="rtl"] .faq-imgbox {
     font-size: 16px;
     cursor: pointer;
     padding: 0;
-    transition: color 0.3s ease;
+    transition: all 0.3s ease;
 }
 
 .header-button .search-form button:hover {
-    color: var(--title-color, #01133c) !important;
-} */
+    color: #ffd700 !important;
+    /* Subtle gold accent for hover */
+    transform: scale(1.1);
+}
 
 /* Fix for top bar navigation dropdowns and padding */
 .top-main-menu>ul {

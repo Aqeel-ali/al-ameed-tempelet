@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>اختيار النموذج - شركة العميد</title>
+    <title>النماذج المقترحة</title>
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -30,10 +30,13 @@
             overflow: hidden;
         }
 
+
+
+
         .container {
             text-align: center;
             padding: 20px;
-            max-width: 800px;
+            max-width: 1200px;
             width: 100%;
         }
 
@@ -57,13 +60,13 @@
             padding: 30px;
             width: 280px;
             transition: all 0.3s ease;
-            cursor: pointer;
             text-decoration: none;
             color: inherit;
             display: flex;
             flex-direction: column;
             align-items: center;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            position: relative;
         }
 
         .card:hover {
@@ -80,27 +83,45 @@
 
         .card h2 {
             font-size: 1.5rem;
-            margin-bottom: 10px;
+            margin-bottom: 5px;
         }
 
-        .card p {
-            font-size: 0.9rem;
-            color: #666;
+        .card h4 {
+            color: #888;
             margin-bottom: 20px;
+            font-weight: normal;
+        }
+
+        .btn-wrapper {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            width: 100%;
         }
 
         .btn {
             background-color: var(--primary-color);
             color: white;
-            padding: 10px 25px;
+            padding: 10px 20px;
             border-radius: 25px;
             font-weight: bold;
             display: inline-block;
-            transition: background 0.3s;
+            transition: all 0.3s;
+            text-decoration: none;
+            font-size: 0.9rem;
         }
 
-        .card:hover .btn {
+        .btn:hover {
             background-color: #0a7362;
+            transform: scale(1.05);
+        }
+
+        .btn.secondary {
+            background-color: #34495e;
+        }
+
+        .btn.secondary:hover {
+            background-color: #2c3e50;
         }
 
         .disclaimer {
@@ -147,26 +168,42 @@
 <body>
 
     <div class="container">
-        <h1>مرحباً بك في لوحة اختيار النماذج</h1>
+        <h1>النماذج المقترحة</h1>
 
         <div class="buttons-wrapper">
-            <a href="./EduField - Education/index.html" class="card">
+            <div class="card">
                 <div style="font-size: 50px; margin-bottom: 15px;">🎓</div>
                 <h2>النموذج الأول</h2>
                 <h4>EduField</h4>
-                <span class="btn" style="margin-top: 10px;">عرض النموذج</span>
-            </a>
+                <div class="btn-wrapper">
+                    <a href="./EduField - Education/index.html" class="btn">نسخة عربي</a>
+                    <a href="./EduField - Education/index-en.html" class="btn secondary">English Version</a>
+                </div>
+            </div>
 
-            <a href="./themehour/index.html" class="card">
+            <div class="card">
                 <div style="font-size: 50px; margin-bottom: 15px;">🏢</div>
                 <h2>النموذج الثاني</h2>
                 <h4>ThemeHour</h4>
-                <span class="btn" style="margin-top: 10px;">عرض النموذج</span>
-            </a>
+                <div class="btn-wrapper">
+                    <a href="./themehour/index.html" class="btn">نسخة عربي</a>
+                    <a href="./themehour/index_en.html" class="btn secondary">English Version</a>
+                </div>
+            </div>
+
+            <div class="card">
+                <div style="font-size: 50px; margin-bottom: 15px;">🎨</div>
+                <h2>النموذج الثالث</h2>
+                <h4>EnvyTheme</h4>
+                <div class="btn-wrapper">
+                    <a href="https://www.figma.com/proto/iMvJT6n6WgbkLlRGZWeQSA/Untitled?node-id=1-796&t=ytzGZF4ZpCGRqyaM-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A796"
+                        target="_blank" class="btn">عرض النموذج (Figma)</a>
+                </div>
+            </div>
         </div>
 
         <div class="disclaimer">
-            <p>ملاحظة: جميع النصوص، الصور، والمحتوى في هذه النماذج هي بيانات عشوائية وغير حقيقية، مخصصة فقط لأغراض
+            <p>ملاحظة: جميع النصوص والصور والمحتوى في هذه النماذج هي بيانات عشوائية وغير حقيقية، مخصصة فقط لأغراض
                 التجربة والعرض.</p>
         </div>
 
@@ -178,6 +215,12 @@
         </div>
     </div>
 
+    <script>
+        // Open all links in a new tab automatically
+        document.querySelectorAll('a').forEach(link => {
+            link.setAttribute('target', '_blank');
+        });
+    </script>
 </body>
 
 </html>
