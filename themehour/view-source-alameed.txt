@@ -1,0 +1,1618 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>The University of Alameed</title>
+
+		<meta name="keywords" content="Al-Ameed University, University of Al-Ameed, Alameed University Karbala, private university in Iraq, private university in Karbala, universities in Karbala, Iraqi Ministry of Higher Education, study medicine in Iraq, dentistry in Iraq, nursing in Iraq, health sciences programs Iraq, medical education Iraq, admissions Al-Ameed University, apply to Al-Ameed University, female dormitory Karbala, on-campus accommodation Iraq, accredited university in Iraq" />
+
+		<meta name="description" content="University of Al-Ameed is a private, public-benefit academic institution in Karbala, officially accredited by an order issued by Iraq’s Ministry of Higher Education and Scientific Research. It offers solid undergraduate programs in health and medical disciplines and beyond within a modern learning environment and advanced infrastructure, and provides integrated student services including on-campus female dormitories within its university campus." />
+
+	<meta property="og:title" content="The University of Alameed">
+
+		<meta property="og:description" content="University of Al-Ameed is a private, public-benefit academic institution in Karbala, officially accredited by an order issued by Iraq’s Ministry of Higher Education and Scientific Research. It offers solid undergraduate programs in health and medical disciplines and beyond within a modern learning environment and advanced infrastructure, and provides integrated student services including on-campus female dormitories within its university campus.">
+
+		<meta property="og:image" content="https://alameed.edu.iq/Images/oglogo.jpg" />
+
+
+	<meta property="og:site_name" content="The University of Alameed" />
+	<meta property="og:type" content="University" />
+	<meta property="og:url" content="https://alameed.edu.iq/" />
+	<meta name="copyright" content="Team of University Al-Ameed " />
+	<meta name="google-site-verification" content="0wY17wsVW9PtL9dzXY4arDHcYNcn9HN1tzN4wBSX_j8" />
+
+	
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124960511-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-124960511-1');
+	</script>
+
+	
+
+	
+
+		<link rel="preload" href="/Content/homepageltrcss" as="style">
+<link href="/Content/bootstrap.css" rel="stylesheet"/>
+<link href="/Content/CoreAnimatte.css" rel="stylesheet"/>
+<link href="/Content/font-awesome.min.css" rel="stylesheet"/>
+<link href="/Content/Site.css" rel="stylesheet"/>
+<link href="/Content/content.css" rel="stylesheet"/>
+<link href="/Content/Site-ltr.css" rel="stylesheet"/>
+<link href="/Content/Carousel.css" rel="stylesheet"/>
+
+
+	
+	
+</head>
+<body>
+    
+
+    <header>
+    <div class="navbar my-navbar navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="/" title="" class="navbar-brand">
+                    <img alt="Description" src="/Images/AlameedUniversityEnglishLogo.png" class="img-responsive" />
+                </a>
+            </div>
+            <div class="navbar-collapse collapse my-collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="/" class="active" title="Home" id="item1">
+                            Home
+                        </a>
+                    </li>
+                    <li class="dr-menu">
+                        <a href="javascript:;" title="Presidency" id="item3">
+                            Presidency
+                        </a>
+                        <ul class="sub-mene-header animated fast fadeOutDown">
+
+                            <li>
+                                <a href="/The-University-President-Word">The University President</a>
+                            </li>
+                            <li>
+                                <a href="/Scientific-Assistant-Word">Scientific Assistant</a>
+                            </li>
+                            <li>
+                                <a href="/Administrative-Assistant-Word">Administrative Assistant</a>
+                            </li>
+                            <li>
+                                <a href="/University-Council">University Council</a>
+                            </li>
+                            <li>
+                                <a href="/University-Hierarchy">Hierarchy</a>
+                            </li>
+                            <li>
+                                <a href="/University-Department">University Department</a>
+                            </li>
+
+
+                            <li>
+                                <a href="/Photo-Gallery">Gallery</a>
+                            </li>
+
+
+                            <li>
+
+                                
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dr-menu">
+                        <a href="javascript:;" title="Colleges" id="item4">
+                            Colleges
+                        </a>
+                        <ul class="sub-mene-header animated fast fadeOutDown">
+                            <li>
+                                <a href="/College-of-Medicine">College of Medicine</a>
+                            </li>
+                            <li>
+                                <a href="/College-of-Dentistry">College of Dentistry</a>
+                            </li>
+                            <li>
+                                <a href="/College-of-Pharmacy">College of Pharmacy</a>
+                            </li>
+                            <li>
+                                <a href="/College-of-Nursing">College of Nursing</a>
+                            </li>
+
+                            <li>
+                                <a href="/Under-Construction">College Of Health And Medical Technologies</a>
+                              
+                            </li>
+                            <li>
+                                <a href="/College-of-Basic-Education-for-Girls">School of Basic Education for Girls</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dr-menu">
+                        <a h href="javascript:;" title="News" id="item5">
+                            News
+                        </a>
+                        <ul class="sub-mene-header animated fast fadeOutDown">
+                            <li>
+                                <a href="/News">News</a>
+                            </li>
+                            <li>
+                                <a href="/Notifications">Notifications</a>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    <li>
+                        <a href="/University-Ranking" title="University Ranking" id="item6">
+                            University Ranking
+                        </a>
+                    </li>
+
+                    <li class="dr-menu">
+                        <a href="javascript:;" title="University Services" id="item11">
+                            University Services
+                        </a>
+                        <ul class="sub-mene-header animated fast fadeOutDown">
+                            <li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/Central-Alameed-Laboratory" id="item17">Central Laboratory</a>
+
+                            </li>
+                            
+                            <li>
+                                <a href="/International-Request">International Form Request</a>
+                            </li>
+                            <li>
+                                <a href="/Follow-International-Request">Follow  Foreigns Request register</a>
+                            </li>
+                            <li>
+                                <a href="/Follow-Job-Application">Follow Job Application</a>
+                            </li>
+
+                            <li>
+                                <a href="https://lms.alameed.edu.iq" target="_blank">e-learning</a>
+                            </li>
+
+                            <li>
+                                <a href="/University-Documents">University Documents</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <div class="language-box">
+                    
+                    <a href="javascript:;" title="" class="font-weight500 language-link">
+                        <i class="fa fa-globe" aria-hidden="true"></i> English <i class="fa fa-angle-down" aria-hidden="true"></i>
+                    </a>
+                    <div class="language-wrap">
+                        <a href="/Language-Arabic">
+                            
+                            <p class="  img-responsive langh_ar"> </p>
+                            Arabic
+                        </a>
+                        <a href="/Language-English">
+                            
+                            <p class="img-responsive langh_en"></p>
+                            English
+                        </a>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="header-mobile navbar navbar-inverse">
+        <div class="container">
+            <div class="menu-button">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <a href="/" title="logo" class="logo">
+                <img alt="Description" src="/Images/AlameedUniversityEnglishLogo.png" class="img-responsive" />
+            </a>
+            <div class="language-box">
+                <a href="javascript:;" title="" class="font-weight500 language-link">
+                    <i class="fa fa-globe" aria-hidden="true"></i> English <i class="fa fa-angle-down" aria-hidden="true"></i>
+                </a>
+                <div class="language-wrap">
+                    <a href="/Language-Arabic">
+                        
+                        <p class="img-responsive langh_ar"></p>
+                        Arabic
+                    </a>
+                    <a href="/Language-English">
+                        
+                        <p class="img-responsive langh_en"></p>
+                        English
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="side-wrap">
+            <div class="panel_top">
+                <nav class="menu-main-nav-area">
+                    <ul id="menu-mobile" class="menu-main-nav">
+                        <li class="current-menu-ancestor current-menu-parent">
+                            <a href="/" class="active-mobile-menu" id="mobileItem1">
+                                <span>Home</span>
+                            </a>
+                        </li>
+                        <li class="current-menu-ancestor current-menu-parent dr-mobile-menu">
+                            <a href="javascript:;" id="mobileItem3">
+                                <i class="fa fa-angle-down" aria-hidden="true"></i>
+                                <span>Presidency</span>
+                            </a>
+                            <ul class="sub-menu" style="display: none;">
+
+                                <li>
+                                    <a href="/The-University-President-Word">The University President</a>
+                                </li>
+                                <li>
+                                    <a href="/Scientific-Assistant-Word">Scientific Assistant</a>
+                                </li>
+                                <li>
+                                    <a href="/Administrative-Assistant-Word">Administrative Assistant</a>
+                                </li>
+                                <li>
+                                    <a href="/University-Council">University Council</a>
+                                </li>
+                                <li>
+                                    <a href="/University-Hierarchy">Hierarchy</a>
+                                </li>
+                                <li>
+                                    <a href="/University-Department">University Department</a>
+                                </li>
+
+                                <li>
+                                    <a href="/Photo-Gallery">Gallery</a>
+                                </li>
+
+                            </ul>
+                        </li>
+                        <li class="current-menu-ancestor current-menu-parent dr-mobile-menu">
+                            <a href="javascript:;" id="mobileItem4">
+                                <i class="fa fa-angle-down" aria-hidden="true"></i>
+                                <span>Colleges</span>
+                            </a>
+                            <ul class="sub-menu" style="display: none;">
+                                <li>
+                                    <a href="/College-of-Medicine">College of Medicine</a>
+                                </li>
+                                <li>
+                                    <a href="/College-of-Dentistry">College of Dentistry</a>
+                                </li>
+                                <li>
+                                    <a href="/College-of-Pharmacy">College of Pharmacy</a>
+                                </li>
+                                <li>
+                                    <a href="/College-of-Nursing">College of Nursing</a>
+                                </li>
+                                <li>
+                                    <a href="/Under-Construction">College Of Health And Medical Technologies</a>
+                                    
+                                </li>
+                                <li>
+                                    <a href="/College-of-Basic-Education-for-Girls">School of Basic Education for Girls</a>
+                                </li>
+
+                            </ul>
+                        </li>
+                        <li class="current-menu-ancestor current-menu-parent dr-mobile-menu">
+                            <a href="javascript:;" id="mobileItem5">
+                                <i class="fa fa-angle-down" aria-hidden="true"></i>
+                                <span>News</span>
+                            </a>
+                            <ul class="sub-menu" style="display: none;">
+                                <li>
+                                    <a href="/News">News</a>
+                                </li>
+                                <li>
+                                    <a href="/Notifications">Notifications</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/University-Ranking" title="University Ranking" id="item6">
+                                University Ranking
+                            </a>
+                        </li>
+
+                        <li class="current-menu-ancestor current-menu-parent dr-mobile-menu">
+                            <a href="javascript:;" id="mobileItem11">
+                                <i class="fa fa-angle-down" aria-hidden="true"></i>
+                                <span> University Services</span>
+                            </a>
+                            <ul class="sub-menu" style="display: none;">
+                                <li>
+                                    <a href=/Central-Alameed-Laboratory>Central Laboratory</a>
+
+                                </li>
+
+                                <li>
+                                    <a href="/International-Request">International Form Request</a>
+                                </li>
+
+                                <li>
+                                    <a href="/Follow-International-Request">Follow  Foreigns Request register</a>
+                                </li>
+                                <li>
+                                    <a href="/Follow-Job-Application">Follow Job Application</a>
+                                </li>
+                                <li>
+                                    <a href="https://lms.alameed.edu.iq" target="_blank">e-learning</a>
+                                </li>
+
+                                <li>
+                                    <a href="/University-Documents">University Documents</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/About-Us" id="mobileItem12">About Us</a>
+                        </li>
+                        <li>
+                            <a href="/Contact-Us" id="mobileItem13">Contact Us</a>
+                        </li> 
+                        <li>
+                            <a href="/Complaint-Suggestion-Boxs" id="mobileItem20">Complaint Suggestion Boxs</a>
+                        </li>
+                       
+                        <li>
+                            <a href="/Promote-the-principle-of-transparency" id="mobileItem15">Principle of Transparency</a>
+                        </li>
+                        <li>
+                            <a href="/Continuing-Education-Center" id="mobileItem9">Continuing Education Center</a>
+                        </li>
+                        <li>
+                            <a href="/Sustainable-Development" id="mobileItem16">Sustainable Development</a>
+                        </li>
+                        
+                        <li></li>
+                        <li class="current-menu-ancestor current-menu-parent dr-mobile-menu">
+                            <a href="javascript:;" id="mobileItem17">
+                                <i class="fa fa-angle-down" aria-hidden="true"></i>
+                                <span>Scientific Activities</span>
+                            </a>
+                            <ul class="sub-menu" style="display: none;">
+                                <li>
+                                    <a href="//ajmrhs.alameed.edu.iq" target="_blank">AlameedJournal</a>
+                                </li>
+                                <li><a href="/Scientific-Activity">Research</a></li>
+
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/Library">Library</a>
+
+                        </li>
+                        <li>
+                            <a href="//vr.alameed.edu.iq" target="_blank">Virtual Tour</a>
+                        </li>
+                        <li><a href="/Login" id="mobileItem19">Login</a></li>
+
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <div class="mask show"></div>
+    </div>
+
+    <nav class="navbar  my-navbar2 secnvav" id="secondnav">
+        <div class="container">
+            <div class="navbar-collapse collapse my-collapse secnav-links secondnav-div d-flex justify-content-center">
+                <ul class="nav navbar-nav">
+                    <li class="dr-menu">
+                        <a href="javascript:;" title="Our Services" id=item11">
+                            Our Services
+                        </a>
+                        <ul class="sub-mene-header animated fast fadeOutDown">
+                            <li class="nav-item"><a class="nav-link" href="/About-Us" id="item12">About Us</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/Contact-Us" id="item13">Contact Us</a></li>
+                            <li class="nav-item"><a class="nav-link" href="/Complaint-Suggestion-Boxs" id="item20">Complaint Suggestion Boxs</a></li>
+                            <li class="nav-item"><a class="nav-link" href="//vr.alameed.edu.iq" target="_blank">Virtual Tour</a></li>
+
+                        </ul>
+                    </li>
+                    
+         
+                    <li class="nav-item"><a class="nav-link" href="/Promote-the-principle-of-transparency" id="item14">Principle of Transparency</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/Continuing-Education-Center" id="item15">Continuing Education Center</a></li>
+
+                    <!--<li class="dr-menu">
+                    <a href="/Continuing-Education-Center" id="item9">
+                        Continuing Education Center
+                    </a>-->
+                    
+                    <!--</li>-->
+                    <li class="dr-menu">
+                        <a href="javascript:;" title="Scientific Activities" id="item16">
+                            Scientific Activities
+                        </a>
+                        <ul class="sub-mene-header animated fast fadeOutDown">
+                            <li>
+                                <a href="//ajmrhs.alameed.edu.iq" target="_blank">AlameedJournal</a>
+                            </li>
+                            <li>
+                                <a href="https://tasleem.alameedcenter.iq" target="_blank">Tasleem Journal</a>
+                            </li>
+                            <li><a href="/Scientific-Activity">Research</a></li>
+
+                        </ul>
+                    </li>
+                    
+                    <li class="nav-item"><a a class="nav-link" href="/Sustainable-Development" id="item17">Sustainable Development</a></li>
+                    <li class="nav-item"></li>
+
+                    <li class="nav-item"><a class="nav-link" href="/Library" id="item18">Library</a></li>
+
+                    <li class="nav-item"><a class="nav-link" href="/Login" id="item19">Login</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+    
+<link href="/Content/lightbox.min.css" rel="stylesheet"/>
+<link href="/Content/index.css" rel="stylesheet"/>
+<link href="/Content/Carousel.css" rel="stylesheet"/>
+
+
+<div class="body-content">
+    <section class="sec-slider">
+        <div id="carousel-example-generic" class="carousel slide carousel-fade" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="1" class=""></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="3" class=""></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                        <img alt="Description" src="/Images/Slider/Image/2025/8/4424a8eb-63cd-4d8b-8dd6-8d1897a5c11b__P7A0220 (1).JPG" />
+                        <div class="carousel-caption">
+                            <h3>Our goal is to enhance the students’ academic and educational standards</h3>
+                            <p>Empowering learners for a brighter future</p>
+                        </div>
+                    </div>
+                    <div class="item ">
+                        <img alt="Description" src="/Images/Slider/Image/2025/8/a829577a-b664-4f6d-84cc-10ba3610a635_DSC000472.jpg" />
+                        <div class="carousel-caption">
+                            <h3>University Corridors</h3>
+                            <p>Academic spaces that embrace academic and student activity</p>
+                        </div>
+                    </div>
+                    <div class="item ">
+                        <img alt="Description" src="/Images/Slider/Image/2025/4/052ed48e-35e0-4762-b61a-51345ef23c71_صورة تخرج الطب 2025 صورة رقم 9.jpg" />
+                        <div class="carousel-caption">
+                            <h3>The College of Medicine</h3>
+                            <p>Third Batch</p>
+                        </div>
+                    </div>
+                    <div class="item ">
+                        <img alt="Description" src="/Images/Slider/Image/2026/1/e2c8ced7-36b1-4896-acef-a7453f122b0f_eb3da874-a7e8-42db-8d9f-52481d1c575e (1).png" />
+                        <div class="carousel-caption">
+                            <h3>With scientific research</h3>
+                            <p>we rise to achieve a safe healthy environment</p>
+                        </div>
+                    </div>
+            </div>
+            <!-- Controls -->
+            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                <i class="fa fa-angle-left fa-3x" aria-hidden="true"></i>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                <i class="fa fa-angle-right fa-3x" aria-hidden="true"></i>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </section>
+    <section class="sec-uni-coll">
+        <div class="container">
+            <div class="uni-coll-box">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="uni-coll-right">
+                            <h3 class="title-page right-text">
+                                Word of the President of Al-Ameed University
+                            </h3>
+                            <p class="text-justify">
+                                <p>
+<br />	In the Name of Allah, the Most Gracious, the Most Merciful &quot;And say, &lsquo;Do [as you will], for Allah will see your deeds, and [so will] His Messenger and the believers. And you will be returned to the Knower of the unseen and the witnessed, and He will inform you of what you used to do.&rsquo;&quot; &mdash; The Holy Qur&rsquo;an, Surah At-Tawbah (9:105) In the name of Allah, the ...<br />
+                            </p>
+                            <div class="btn-box-r btn-uni-coll">
+                                <a href="/The-University-President-Word" class="btn btn-default btn-uni-bg">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                            <img alt="Description" src="/Images/Staff/Image/2023/11/6d39fde3-0fdd-45d5-848a-f1925f44904c_22.jpg" class="img-responsive" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="sec-style sec-which-we-do">
+        <div class="container">
+            <h3 class="title-page">
+                About Us
+            </h3>
+            <div class="row">
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="irs-about-box animated fadeInLeftShort slow delay-250 go">
+                        <div class="irs-about-icon irs-vision-icon">
+                        </div>
+                        <h4>Our Vision</h4>
+                        <p>
+                            <p style="text-align: left;">Towards sustainable academic development.</p>
+                        </p>
+                        <a class="btn btn-default irs-btn-transparent" href="/Our-Vision" role="button">Read More</a>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="irs-about-box animated fadeInLeftShort slow delay-250 go">
+                        <div class="irs-about-icon irs-uni-icon">
+                        </div>
+                        <h4>Our Message</h4>
+                        <p>
+                            <p style="text-align: left;">
+Building knowledge, research and training partnerships between corresponding institutions; To advance the reality of the university for effective outcomes and influential research and service products, to achieve ...
+                        </p>
+                        <a class="btn btn-default irs-btn-transparent" href="/Our-Message" role="button">Read More</a>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6">
+                    <div class="irs-about-box animated fadeInLeftShort slow delay-250 go">
+                        <div class="irs-about-icon irs-goals-icon">
+                        </div>
+                        <h4>Goals</h4>
+                        <p>
+                            <b>
+1-Strengthening academic partnerships
+2-Consolidating sustainable development programs and a comprehensive quality system
+3-Activating the scientific research system
+4-Enabling student support; Psychologically, cognitively, intellectually ...
+                        </p>
+                        <a class="btn btn-default irs-btn-transparent" href="/Our-Goals" role="button">Read More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="/Scripts/lightbox-plus-jquery.min.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <section class="sec-uni-coll">
+        <div class="container">
+            <h3 class="title-page">
+                Colleges
+            </h3>
+            <div class="row">
+                <div class="customer-logos " style="direction: ltr;">
+                        <div class="col-md-3 col-sm-6">
+                            <div class="single-lecturers mrg-sm mrg-xs4 ">
+                                <div class=" collagesbanner ">
+                                    <a href="/College-of-Pharmacy" title="College of Pharmacy">
+                                        <img alt="College of Pharmacy" src="/Images/pharm.jpeg" style="width: 97% !important; border-radius: 45px;">
+                                    </a>
+                                    <div class="title-overlay">
+                                        College of Pharmacy
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="single-lecturers mrg-sm mrg-xs4 ">
+                                <div class=" collagesbanner ">
+                                    <a href="/College-of-Nursing" title="College of Nursing">
+                                        <img alt="College of Nursing" src="/Images/nurs.jpeg" style="width: 97% !important; border-radius: 45px;">
+                                    </a>
+                                    <div class="title-overlay">
+                                        College of Nursing
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="single-lecturers mrg-sm mrg-xs4 ">
+                                <div class=" collagesbanner ">
+                                    <a href="/College-of-Medicine" title="College of Medicine">
+                                        <img alt="College of Medicine" src="/Images/med.jpeg" style="width: 97% !important; border-radius: 45px;">
+                                    </a>
+                                    <div class="title-overlay">
+                                        College of Medicine
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="single-lecturers mrg-sm mrg-xs4 ">
+                                <div class=" collagesbanner ">
+                                    <a href="/College-of-Basic-Education-for-Girls" title="School of Basic Education for Girls">
+                                        <img alt="School of Basic Education for Girls" src="/Images/basicEducation.png" style="width: 97% !important; border-radius: 45px;">
+                                    </a>
+                                    <div class="title-overlay">
+                                        School of Basic Education for Girls
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="single-lecturers mrg-sm mrg-xs4 ">
+                                <div class=" collagesbanner ">
+                                    <a href="/College-of-Dentistry" title="College of Dentistry">
+                                        <img alt="College of Dentistry" src="/Images/dent.jpeg" style="width: 97% !important; border-radius: 45px;">
+                                    </a>
+                                    <div class="title-overlay">
+                                        College of Dentistry
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+
+            
+        </div>
+    </section>
+
+    <section class="sec-uni-team">
+        <div class="container">
+            <h3 class="title-page">
+                News
+            </h3>
+            <div class="row">
+                    <div class="col-md-4 col-sm-6">
+                        <div class="col-uni-news-summary">
+                            <div class="sec-uni-news-img">
+                                <a href="/News/News-Detail/i3ff1XaaRzQ=/رئيس-الجامعة-يطّلع-على-استعدادات-كلية-طب-الأسنان-لزيارة-المقيم-الوطني" title="">
+                                    <img alt="Description" src="/Images/News/Thumbnail/2026/3/8c00d919-5355-4f58-8a9a-21a34498dda9_IMG_3939.jpeg" class="img-responsive" />
+                                </a>
+                                <div class="sec-uni-news-info">
+                                    <span>
+                                        <i class="fa fa-clock-o" aria-hidden="true"></i><span class="font-tahome">3/10/2026</span>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="sec-uni-news-summary">
+                                <h4>
+                                    <a href="javascript:;">رئيس الجامعة يطّلع على استعدادات كلية طب الأسنان لزيارة المقيم الوطني</a>
+                                </h4>
+                                <p>
+                                    أجرى رئيس الجامعة، أ.د. جودت نوري الجشعمي، اليوم الإثنين الموافق (10/3/2026)، جولة تفقدية في كلية طب الأسنان رفقة عميد الكلية أ.م.د. سامر مجيد النصراوي وعدد من تدريسي الكلية.
+
+واطّلع السيد رئيس الجامعة في أثناء الجولة على أبرز متطلبات الكلية ...
+                                </p>
+                                <div class="btn-box-r">
+                                    <a href="/News/News-Detail/i3ff1XaaRzQ=/رئيس-الجامعة-يطّلع-على-استعدادات-كلية-طب-الأسنان-لزيارة-المقيم-الوطني" class="btn btn-default btn-uni-bg">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="col-uni-news-summary">
+                            <div class="sec-uni-news-img">
+                                <a href="/News/News-Detail/VkyQe3Y6eFU=/commemorating-the-martyrdom-of-imam-ali-(peace-be-upon-him)-amidst-an-atmosphere-of-sorrow-and-loyalty" title="">
+                                    <img alt="Description" src="/Images/News/Thumbnail/2026/3/0705e0ce-318d-4a7b-b4a7-2e47d5018c2e_IMG_3928.jpeg" class="img-responsive" />
+                                </a>
+                                <div class="sec-uni-news-info">
+                                    <span>
+                                        <i class="fa fa-clock-o" aria-hidden="true"></i><span class="font-tahome">3/10/2026</span>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="sec-uni-news-summary">
+                                <h4>
+                                    <a href="javascript:;">Commemorating the Martyrdom of Imam Ali (Peace Be Upon Him) Amidst an Atmosphere of Sorrow and Loyalty</a>
+                                </h4>
+                                <p>
+                                    The University Psychological Counseling Division organized today, Tuesday (10/3/2026), a mourning gathering to commemorate the martyrdom of our Master, the Commander of the Faithful, Imam Ali bin Abi Talib (Peace Be Upon Him). This took place at the ...
+                                </p>
+                                <div class="btn-box-r">
+                                    <a href="/News/News-Detail/VkyQe3Y6eFU=/commemorating-the-martyrdom-of-imam-ali-(peace-be-upon-him)-amidst-an-atmosphere-of-sorrow-and-loyalty" class="btn btn-default btn-uni-bg">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="col-uni-news-summary">
+                            <div class="sec-uni-news-img">
+                                <a href="/News/News-Detail/J2rDpRN1Bgo=/to-discuss-the-development-of-the-educational-process-and-raise-the-academic-ranking,-the-college-of-medicine-council-holds-its-sixth-session" title="">
+                                    <img alt="Description" src="/Images/News/Thumbnail/2026/3/b2a7db5b-67cd-471b-ab59-1b31fb89e2eb_IMG_3898.jpeg" class="img-responsive" />
+                                </a>
+                                <div class="sec-uni-news-info">
+                                    <span>
+                                        <i class="fa fa-clock-o" aria-hidden="true"></i><span class="font-tahome">3/10/2026</span>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="sec-uni-news-summary">
+                                <h4>
+                                    <a href="javascript:;">To Discuss the Development of the Educational Process and Raise the Academic Ranking, the College of Medicine Council Holds Its Sixth Session</a>
+                                </h4>
+                                <p>
+                                    The College of Medicine Council held its sixth session chaired by the Dean of the College, Prof. Dr. Riyadh Mustafa Murtadha, and attended by the heads of the scientific branches. It commenced with the recitation of Surah Al-Fatiha for the souls of ...
+                                </p>
+                                <div class="btn-box-r">
+                                    <a href="/News/News-Detail/J2rDpRN1Bgo=/to-discuss-the-development-of-the-educational-process-and-raise-the-academic-ranking,-the-college-of-medicine-council-holds-its-sixth-session" class="btn btn-default btn-uni-bg">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="sec-uni-news ">
+        <h3 class="title-page">
+            Gallery
+        </h3>
+            <div class="row meg0L mrg0R">
+                    <div class="col-md-3 col-sm-6 pad0L pad0R">
+                        <div class="uni-gallery-box">
+                            <img class="example-image img-responsive" src="/Images/Gallary/Thumbnail/2025/10/77c0525e-7d0a-4556-a065-6ec914cb2b00_photo_2025-10-25_01-43-54.jpg" alt="Description" />
+                            <div class="uni-gallery-box-hover">
+                                <a data-rel="prettyphoto[]" href="/Images/Gallary/Image/2025/10/77c0525e-7d0a-4556-a065-6ec914cb2b00_photo_2025-10-25_01-43-54.jpg" class="example-image-link" data-lightbox="example-set" data-title="Al-Ameed University participation in the opening of the “Enriching the Visual Space” exhibition at Al-Sibtain University">
+                                    <i class="fa fa-eye"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 pad0L pad0R">
+                        <div class="uni-gallery-box">
+                            <img class="example-image img-responsive" src="/Images/Gallary/Thumbnail/2025/12/580c4292-5113-4260-90a0-184f0fd505c1_photo_2025-12-13_11-15-30.jpg" alt="Description" />
+                            <div class="uni-gallery-box-hover">
+                                <a data-rel="prettyphoto[]" href="/Images/Gallary/Image/2025/12/580c4292-5113-4260-90a0-184f0fd505c1_photo_2025-12-13_11-15-30.jpg" class="example-image-link" data-lightbox="example-set" data-title="College of Dentistry Holds a Training Workshop on the Electronic Clinics Program">
+                                    <i class="fa fa-eye"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 pad0L pad0R">
+                        <div class="uni-gallery-box">
+                            <img class="example-image img-responsive" src="/Images/Gallary/Thumbnail/2026/1/7c143498-7760-467a-af56-e9a3293cc41e_photo_2026-01-18_13-10-31.jpg" alt="Description" />
+                            <div class="uni-gallery-box-hover">
+                                <a data-rel="prettyphoto[]" href="/Images/Gallary/Image/2026/1/7c143498-7760-467a-af56-e9a3293cc41e_photo_2026-01-18_13-10-31.jpg" class="example-image-link" data-lightbox="example-set" data-title="Memorial Council Commemorating the Martyrdom of Imam Musa ibn Ja‘far (Peace Be Upon Him)">
+                                    <i class="fa fa-eye"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 pad0L pad0R">
+                        <div class="uni-gallery-box">
+                            <img class="example-image img-responsive" src="/Images/Gallary/Thumbnail/2026/2/c52b3a22-7fb0-4d2c-a8e8-0ca6e30879fb_photo_2026-02-16_10-15-44.jpg" alt="Description" />
+                            <div class="uni-gallery-box-hover">
+                                <a data-rel="prettyphoto[]" href="/Images/Gallary/Image/2026/2/c52b3a22-7fb0-4d2c-a8e8-0ca6e30879fb_photo_2026-02-16_10-15-44.jpg" class="example-image-link" data-lightbox="example-set" data-title="Al-Ameed University hosts the Grand Cultural Competition for its students and the students of Al-Kafeel University">
+                                    <i class="fa fa-eye"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+    </section>
+    <section class="sec-style sec-uni-team">
+        <div class="">
+            <h3 class="title-page">
+                Success partners
+            </h3>
+            <div class="row meg0L mrg0R">
+                <div class="link-logos" style="direction: ltr; padding: 0 10px;">
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://www.scopus.com/" title="Scopus">
+                                        <img style="width:150px;" alt="Scopus" src="/Images/Staff/Image/2025/5//c6359964-962c-4681-9fd7-5d8b59177838_scopus-logo-png_seeklogo-335404.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://scholar.google.com/citations?hl=en&amp;authuser=1&amp;view_op=search_authors&amp;mauthors=University+of+Al-Ameed&amp;btnG=" title="Google Scholar">
+                                        <img style="width:150px;" alt="Google Scholar" src="/Images/Staff/Image/2025/5//90157668-80a6-4ba4-b469-2aa0e2748600_LogoGoogle.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://publons.com/institution/1341783/" title="Publons">
+                                        <img style="width:150px;" alt="Publons" src="/Images/Staff/Image/2025/5//c82ce2fa-b81d-4012-8d1b-f95c323421df_A_guide_to_publons.jpeg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://pubmed.ncbi.nlm.nih.gov/" title="PubMed">
+                                        <img style="width:150px;" alt="PubMed" src="/Images/Staff/Image/2025/5//bc82f59f-2a18-4308-a4f0-65cecb5c46cb_pubmed-logo-png_seeklogo-409209.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://www.researchgate.net/institution/University-of-Al-Ameed" title="ResearchGate">
+                                        <img style="width:150px;" alt="ResearchGate" src="/Images/Staff/Image/2025/5//71291e7d-12c2-493f-9791-ee73142067b6_1_t-V__9zNKUss2gtb9nDhWA.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://uobaghdad.edu.iq/" title="University Of Baghdad">
+                                        <img style="width:150px;" alt="University Of Baghdad" src="/Images/Staff/Image/2025/5//7979bca9-ef0d-4bee-80dc-914992e55cbf_ab626a20de97858c83a8011a40dfd466.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://nahrainuniv.edu.iq/" title="جامعة النهرين">
+                                        <img style="width:150px;" alt="جامعة النهرين" src="/Images/Staff/Image/2025/5//5439a076-e910-430c-a71f-b6427687835a_Nahrain1987.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://uomustansiriyah.edu.iq/" title="جامعة المستنصرية">
+                                        <img style="width:150px;" alt="جامعة المستنصرية" src="/Images/Staff/Image/2025/5//1f954d86-fec0-4d2b-b46c-ca6f0ababf07_الجامعة-المستنصرية.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://www.uobasrah.edu.iq/" title="جامعة البصرة">
+                                        <img style="width:150px;" alt="جامعة البصرة" src="/Images/Staff/Image/2025/5//3ff3bf1b-09dd-4e5b-b2fb-0b49fb517e24_الجامعة.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="http://uomosul.edu.iq/" title="جامعة الموصل">
+                                        <img style="width:150px;" alt="جامعة الموصل" src="/Images/Staff/Image/2025/5//cde9de1a-150b-45fd-a69b-b09e25627cbc_b84c42c96ebc4b94af176fff334ffa6a.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="http://www.uobabylon.edu.iq/" title="جامعة بابل">
+                                        <img style="width:150px;" alt="جامعة بابل" src="/Images/Staff/Image/2025/5//39685c56-aec3-4730-954a-80df1a6b4629_23f966c1a7ac587ea4582fc7532ded0d.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://uokerbala.edu.iq/" title="جامعة كربلاء">
+                                        <img style="width:150px;" alt="جامعة كربلاء" src="/Images/Staff/Image/2025/5//7b2ed514-b0b7-4df2-ac1e-1b56cc531f69_5.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://uokufa.edu.iq/" title="جامعة الكوفة">
+                                        <img style="width:150px;" alt="جامعة الكوفة" src="/Images/Staff/Image/2025/5//81bc2677-39e6-4798-be11-711c7bf91bb1_kufauniversity_logo.jpeg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="http://alkafeel.edu.iq/" title="جامعة الكفيل">
+                                        <img style="width:150px;" alt="جامعة الكفيل" src="/Images/Staff/Image/2025/5//7f810dc5-f1a6-460a-9cbf-9d62c0af7aa6_unnamed.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="http://tu.edu.iq/" title="جامعة تكريت">
+                                        <img style="width:150px;" alt="جامعة تكريت" src="/Images/Staff/Image/2025/5//8fce5ddd-59ae-48e0-8ee4-4fc98bd06c35_تكريت.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://alkadhum-col.edu.iq/" title="كلية الامام الكاظم">
+                                        <img style="width:150px;" alt="كلية الامام الكاظم" src="/Images/Staff/Image/2025/5//451f0e84-cc54-4bdf-9f5d-fae4239c4e27_كلية_الإمام_كاظم_شعار.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://www.sa-uc.edu.iq/" title="كلية شط العرب">
+                                        <img style="width:150px;" alt="كلية شط العرب" src="/Images/Staff/Image/2025/5//c8fff235-62c4-4fee-a20d-ad4c00df905d_كلية_شط_العرب_الجامعة.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://uomus.edu.iq/" title="كلية المستقبل الجامعة">
+                                        <img style="width:150px;" alt="كلية المستقبل الجامعة" src="/Images/Staff/Image/2025/5//93f7c609-d731-40f7-8f36-136290e1fd9d_WameedMUCDepNew_2023_4134328.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://sawauniversity.edu.iq/" title="جامعة ساوة الاهلية">
+                                        <img style="width:150px;" alt="جامعة ساوة الاهلية" src="/Images/Staff/Image/2025/5//eff7ae5b-84ac-49a3-9c89-ac73d24cbdb5_271417502_326196949364509_659823668769072330_n.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://altoosi.edu.iq/ar/" title="جامعة الشيخ الطوسي">
+                                        <img style="width:150px;" alt="جامعة الشيخ الطوسي" src="/Images/Staff/Image/2025/5//a90eb9ed-6d27-4854-bc25-912376855327_images (1).jpeg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://clib.uobaghdad.edu.iq/" title="المكتبة المركزية جامعة بغداد">
+                                        <img style="width:150px;" alt="المكتبة المركزية جامعة بغداد" src="/Images/Staff/Image/2025/5//6dba5b37-f280-4994-a816-d81b2acd027d_مكتبة.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href=" https://library.uokerbala.edu.iq/" title="مكتبة جامعة كربلاء">
+                                        <img style="width:150px;" alt="مكتبة جامعة كربلاء" src="/Images/Staff/Image/2025/5//d9805385-558a-4bd1-9c85-363699fd9485_5.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://library.uobabylon.edu.iq/" title="مكتبة جامعة بابل">
+                                        <img style="width:150px;" alt="مكتبة جامعة بابل" src="/Images/Staff/Image/2025/5//7823e860-a6f1-411f-b5c2-2b2ece4ab4aa_23f966c1a7ac587ea4582fc7532ded0d.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://uomosul.edu.iq/libcentral/" title="مكتبة جامعة الموصل">
+                                        <img style="width:150px;" alt="مكتبة جامعة الموصل" src="/Images/Staff/Image/2025/5//5ca7485c-662a-4f9f-9ece-cc1c72f2cda0_b84c42c96ebc4b94af176fff334ffa6a.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://library.uobasrah.edu.iq/" title="مكتبة جامعة البصرة">
+                                        <img style="width:150px;" alt="مكتبة جامعة البصرة" src="/Images/Staff/Image/2025/9//bedfe477-75b6-4d0c-bf46-fa434b7fecc5_photo_2025-09-24_11-22-26.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://uokufa.edu.iq/%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8%D8%A7%D8%AA/%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9" title="مكتبة جامعة الكوفة">
+                                        <img style="width:150px;" alt="مكتبة جامعة الكوفة" src="/Images/Staff/Image/2025/5//166e4802-6369-42b2-b2ed-9c4707263244_485006830_646023968180047_5489072139804558729_n.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://www.uoanbar.edu.iq/Library/" title="مكتبة جامعة الانبار">
+                                        <img style="width:150px;" alt="مكتبة جامعة الانبار" src="/Images/Staff/Image/2025/5//808751cc-86ed-4dfb-be53-ea56f19e3f61_images (3).jpeg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://su.edu.krd/CL" title="مكتبة جامعة صلاح الدين-اربيل">
+                                        <img style="width:150px;" alt="مكتبة جامعة صلاح الدين-اربيل" src="/Images/Staff/Image/2025/5//c97fdc95-33f6-4dac-a778-0e78e44f3ed7_1478677566.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://alkafeel.net/library/" title="مكتبة ودار مخطوطات العتبة العباسية المقدسة">
+                                        <img style="width:150px;" alt="مكتبة ودار مخطوطات العتبة العباسية المقدسة" src="/Images/Staff/Image/2025/5//8bb23357-31b7-4a72-9d47-35e49649b357_img1715799074.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://imamhussain.org/elibrary" title="مكتبة العتبة الحسينية المقدسة">
+                                        <img style="width:150px;" alt="مكتبة العتبة الحسينية المقدسة" src="/Images/Staff/Image/2025/9//6db1b385-fcdf-4e0d-9e39-6b3acbf20658_l;jfm ujfm psdkdm.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://jmu.edu.iq" title="جامعة جابر بن حيان للعلوم الطبية">
+                                        <img style="width:150px;" alt="جامعة جابر بن حيان للعلوم الطبية" src="/Images/Staff/Image/2025/6//0a5daf9e-7087-4f3d-ae84-580d41a9c996_jmuLogo-440x440-1-260x260.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://www.kiqp.net" title="البوابة العراقية للمعرفة">
+                                        <img style="width:150px;" alt="البوابة العراقية للمعرفة" src="/Images/Staff/Image/2026/3//69cc756d-93ec-42f7-a1a7-8d6b0bdbabad_img1699030398.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://iqdr.iq" title="المستودع الرقمي العراقي للأطاريح والرسائل">
+                                        <img style="width:150px;" alt="المستودع الرقمي العراقي للأطاريح والرسائل" src="/Images/Staff/Image/2026/3//c32f4815-457b-4283-815f-e3d8a47de74f_21651-57d1de4209698fa735e67e.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="library.alameed.edu.iq/index.php" title="منصات ومواقع">
+                                        <img style="width:150px;" alt="منصات ومواقع" src="/Images/Staff/Image/2026/3//d4de4a92-389e-485e-a792-8219b0b565e1_logo.ico.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://login.research4life.org/tacsgr1portal_research4life_org" title="Research4Life - Hinari">
+                                        <img style="width:150px;" alt="Research4Life - Hinari" src="/Images/Staff/Image/2026/3//10232c7d-8547-4cdb-9e6f-d5aeb615bf6f_research.png">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://www.kiqp.net" title="البوابة العراقية للمعرفة">
+                                        <img style="width:150px;" alt="البوابة العراقية للمعرفة" src="/Images/Staff/Image/2026/3//374696c8-b813-4653-8489-79648886bc96_images.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="mrg-sm mrg-xs4 ">
+                                <div class="collagesbanner " style="border: none">
+                                    <a href="https://iqdr.iq" title="المستودع الرقمي العراقي للأطاريح والرسائل">
+                                        <img style="width:150px;" alt="المستودع الرقمي العراقي للأطاريح والرسائل" src="/Images/Staff/Image/2026/3//9c8c3154-5b23-4d1a-aea7-460edd29a34c_b3272d946f84b5792012a26a5b405c5c.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <section class="sec-style sec-uni-team backg">
+        <div class="container">
+            <h3 class="title-page">
+                University Staff
+            </h3>
+            <div class="row">
+                    <div class="col-md-3 col-sm-6">
+                        <div class="single-lecturers mrg-sm mrg-xs4">
+                            <div class="lecturers-img">
+                                <a href="/Staff-Details/h8Zdc276F7U=/abdulrazzak-kalaf-hassan-al-maeyahe">
+                                        <img alt="Description" src="/Images/Staff/Thumbnail/2020/3/f6175837-fc7b-4b05-b2fd-7c9c11586813_pp (1).jpg">
+                                </a>
+                                <div class="img-title">
+                                    <h3>Prof. Dr Abdulrazzak Kalaf Hassan Al-Maeyahe</h3>
+                                    <p>PhD General Medicine and Surgery</p>
+                                </div>
+                            </div>
+                            <a href="/Staff-Details/h8Zdc276F7U=/abdulrazzak-kalaf-hassan-al-maeyahe">
+                                <div class="lecturers-details">
+                                    <div class="lecturers-details-wrapper">
+                                        <h3>Prof. Dr Abdulrazzak Kalaf Hassan Al-Maeyahe</h3>
+                                        <p>PhD General Medicine and Surgery</p>
+                                        <div class="last-about-details">
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="single-lecturers mrg-sm mrg-xs4">
+                            <div class="lecturers-img">
+                                <a href="/Staff-Details/zrhFDaqPQKs=/ehab-al-din-haider-al-fiead">
+                                        <img alt="Description" src="/Images/Staff/Thumbnail/2022/12/e433490b-9558-4ced-9308-92e5f9af4855_photo_2022-12-14_14-35-04.jpg">
+                                </a>
+                                <div class="img-title">
+                                    <h3>Assist. Lect Ehab AL Din Haider Al-fiead</h3>
+                                    <p>Master Nursing</p>
+                                </div>
+                            </div>
+                            <a href="/Staff-Details/zrhFDaqPQKs=/ehab-al-din-haider-al-fiead">
+                                <div class="lecturers-details">
+                                    <div class="lecturers-details-wrapper">
+                                        <h3>Assist. Lect Ehab AL Din Haider Al-fiead</h3>
+                                        <p>Master Nursing</p>
+                                        <div class="last-about-details">
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="single-lecturers mrg-sm mrg-xs4">
+                            <div class="lecturers-img">
+                                <a href="/Staff-Details/9KWV9XpKinA=/abbas-abdul-ridha-mahhi-al-sarifi">
+                                        <img alt="Description" src="/Images/Staff/Thumbnail/2025/4/7c07b7a4-5311-4825-9fb9-6abb419bf18e_DSC01006.JPG">
+                                </a>
+                                <div class="img-title">
+                                    <h3>Lect. Dr Abbas Abdul-Ridha Mahhi Al-Sarifi</h3>
+                                    <p>PhD Pharmacy</p>
+                                </div>
+                            </div>
+                            <a href="/Staff-Details/9KWV9XpKinA=/abbas-abdul-ridha-mahhi-al-sarifi">
+                                <div class="lecturers-details">
+                                    <div class="lecturers-details-wrapper">
+                                        <h3>Lect. Dr Abbas Abdul-Ridha Mahhi Al-Sarifi</h3>
+                                        <p>PhD Pharmacy</p>
+                                        <div class="last-about-details">
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="single-lecturers mrg-sm mrg-xs4">
+                            <div class="lecturers-img">
+                                <a href="/Staff-Details/LZOrXilP1QI=/mushtaq-karim-abdul-rahim-ahmed-al-moussawi">
+                                        <img alt="Description" src="/Images/Staff/Thumbnail/2025/1/c09f5c12-5671-4e16-9967-51fdfe2eed38_2 - Copy.jpg">
+                                </a>
+                                <div class="img-title">
+                                    <h3>Prof. Dr Mushtaq Karim Abdul Rahim Ahmed Al-Moussawi</h3>
+                                    <p>PhD Mathematics</p>
+                                </div>
+                            </div>
+                            <a href="/Staff-Details/LZOrXilP1QI=/mushtaq-karim-abdul-rahim-ahmed-al-moussawi">
+                                <div class="lecturers-details">
+                                    <div class="lecturers-details-wrapper">
+                                        <h3>Prof. Dr Mushtaq Karim Abdul Rahim Ahmed Al-Moussawi</h3>
+                                        <p>PhD Mathematics</p>
+                                        <div class="last-about-details">
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+</div>
+
+
+
+    
+
+<footer>
+    <link href="/Content/fontawesome6/css/all.min.css" rel="stylesheet" />
+
+    <div class="container">
+        <div class="footer-box">
+            <div class="row">
+                <div class="col-sm-5">
+                    <h3>
+                        About Us
+                    </h3>
+                    <p>
+                        University of Al-Ameed is working to be a model of leadership and excellence in higher education at the Iraqi national level by 2030
+                    </p>
+                    <ul class="footer-social">
+                        <li style=" margin-right: -5px "><a href="https://www.facebook.com/alameeduniversity/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
+                        <li style=" margin-right: -5px "><a href="https://twitter.com/AlameedEduIq" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
+                        <li style=" margin-right: -5px "><a href="https://youtube.com/@university_of_alameed?si=1sGyYx5v3JOp3dY9" target="_blank"><i class="fa-brands fa-youtube"></i></a></li>
+                        <li style=" margin-right: -5px "><a href="https://www.linkedin.com/school/university-of-alameed" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+                        <li style=" margin-right: -5px "><a href="https://t.me/UnversityofAlameed" target="_blank"> <i class="fa-brands fa-telegram"></i></a></li>
+                        <li style=" margin-right: -5px "><a href="https://www.instagram.com/university_of_alameed?igsh=MW5vdGlkMTYzeDV0NA==" target="_blank"> <i class="fa-brands fa-instagram"></i></a></li>
+                        <li style=" margin-right: -5px "><a href="https://www.tiktok.com/@university_of_alameed?_t=8kmNWxG1HVd&amp;_r=1" target="_blank"> <i class="fa-brands fa-tiktok"></i></a></li>
+
+                    </ul>
+                </div>
+                <div class="col-sm-3">
+                    <h3>
+                        Useful Links
+                    </h3>
+                    <div class="row">
+                        <div class="col-md-10 col-sm-6">
+                            <ul class="footer-link">
+                                <li>
+                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeg_VhIf-NcrhNjxZal4tgYiwfTArsGbxTFM3ZQlBM6c9ZCEA/viewform">
+                                        Research Plan Form
+
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/University-Documents/azgexL1JZKQ=">
+                                        Guidance Manuals
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/University-Documents/O1hbgqUxzVA=">
+                                        The Instructionss
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/University-Documents/8ZAjBUPuK0I=">
+                                         University Laws
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <a href="/University-Documents/fp6ddnCTeUs=">
+                                        Annual Plans
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/University-Documents/YEcoZxCK67c=">
+                                        University Programs
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <a href="/University-Documents/_j1Hr69VMz8=">
+                                        Related Sites
+                                    </a>
+
+                                </li>
+
+
+                            </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            
+
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+                <!--<div class="col-sm-3">
+                <h3>
+                    Useful Links
+                </h3>
+                <div class="row">
+                    <div class="col-md-10 col-sm-6 usefullinks">-->
+                <!--<ul class="footer-link">
+                                <li>
+                                    <a href="https://uobaghdad.edu.iq/" target="_blank">
+                                        University of Baghdad
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://nahrainuniv.edu.iq/" target="_blank">
+                                        Al-Nahrain University
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://uomustansiriyah.edu.iq/" target="_blank" style="white-space:nowrap;">
+                                        Mustansiriyah University
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.uobasrah.edu.iq/" target="_blank">
+                                        University of Basra
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://uomosul.edu.iq/" target="_blank">
+                                        University of Mosul
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.uobabylon.edu.iq/" target="_blank">
+                                        University of Babylon
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://uokerbala.edu.iq/" target="_blank">
+                                        University of Kerbala
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://uokufa.edu.iq/" target="_blank">
+                                        University of Kufa
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://alkafeel.edu.iq/" target="_blank">
+                                        Alkafeel University
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://tu.edu.iq/" target="_blank">
+                                        Tikrit University
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://alkadhum-col.edu.iq/" target="_blank" style="white-space:nowrap;">
+                                        Imam Kadhim Faculty
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.sa-uc.edu.iq/" target="_blank" style="white-space:nowrap;">
+                                        Shatt Al Arab Faculty
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://uomus.edu.iq/" target="_blank" style="white-space:nowrap;">
+                                        Al-Mustaqbal University College
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://sawauniversity.edu.iq/" target="_blank" style="white-space:nowrap;">
+                                        Sawa University
+                                    </a>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>-->
+
+                <div class="col-sm-4">
+                    <h3>
+                        Stay in Touch
+                    </h3>
+                    <ul class="footer-contact">
+                        <li class="number-lb2">Karbala City Karbala – Najaf Highway Front of Pole (1238) P.O No:198 Karbala</li>
+                        <li class="number-lb3">+ 964 760 241 8000</li>
+                        <li class="number-lb3">+ 964 773 307 8000</li>
+                        <li class="number-lb3">+ 964 781 744 8000</li>
+                        <li class="number-lb2"><a href="mailto:admin@alameed.edu.iq" class="font-tahome">admin@alameed.edu.iq</a></li>
+                        <li class="number-lb2"><a href="mailto:info@alameed.edu.iq" class="font-tahome">info@alameed.edu.iq</a></li>
+                        <li class="number-lb2"><a href="mailto:support@alameed.edu.iq" class="font-tahome">support@alameed.edu.iq</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div class="copy-right">
+    Copyright © AlAmeed 2018.All right reserved.Created by Al-Ameed Developer Team
+</div>
+
+
+
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+<script src="/Scripts/jquery-2.2.4.js"></script>
+<script src="/Scripts/modernizr-2.6.2.js"></script>
+<script src="/Scripts/bootstrap.js"></script>
+<script src="/Scripts/respond.js"></script>
+
+
+    
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.customer-logos').slick({
+                slidesToShow: 4,
+                slidesToScroll: 1,
+                autoplay: true,
+                autoplaySpeed: 1500,
+                arrows: false,
+                dots: false,
+                pauseOnHover: false,
+                responsive: [
+                    {
+                        breakpoint: 1280,
+                        settings: {
+                            slidesToShow: 3
+                        }
+                    },
+                    {
+                        breakpoint: 768,
+                        settings: {
+                            slidesToShow: 2
+                        }
+                    }, {
+                        breakpoint: 520,
+                        settings: {
+                            slidesToShow: 2
+                        }
+                    }]
+            });
+        });
+
+        $(document).ready(function () {
+            $('.link-logos').slick({
+                slidesToShow: 8,
+                slidesToScroll: 1,
+                autoplay: true,
+                autoplaySpeed: 1500,
+                arrows: false,
+                dots: false,
+                pauseOnHover: false,
+                responsive: [
+                    {
+                        breakpoint: 1280,
+                        settings: {
+                            slidesToShow: 3
+                        }
+                    },
+                    {
+                        breakpoint: 768,
+                        settings: {
+                            slidesToShow: 2
+                        }
+                    }, {
+                        breakpoint: 520,
+                        settings: {
+                            slidesToShow: 2
+                        }
+                    }]
+            });
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+            $('.carousel').carousel();
+        });
+    </script>
+
+
+    <script>
+        $(document).ready(function () {
+            $('.dr-menu').hover(
+                function () {
+                    $(this).find('.sub-mene-header').show().removeClass('fadeOutDown').addClass('fadeInUp');
+                },
+                function () {
+                    $(this).find('.sub-mene-header').hide().removeClass('fadeInUp').addClass('fadeOutDown');
+                }
+            );
+
+            function Search() {
+                $('#exampleModal').modal('show');
+            }
+
+            //$('#myModal').on('shown.bs.modal', function () {
+            //    $('#myInput').focus()
+            //});
+
+            $(".language-link").click(function () {
+                $(".language-wrap").fadeToggle();
+            });
+
+            $(document).click(function (event) {
+                if ($(event.target).closest(".language-link").length == 0) {
+                    $("body").find(".language-wrap").fadeOut();
+                }
+            });
+
+            $(".navbar-toggle").click(function () {
+                $(".mask").addClass("show");
+                $(".header-mobile .mask").css("width", "100%");
+                $(".side-wrap").addClass("open");
+                $("html").addClass("menu-mobile-open");
+            });
+
+            $(".mask").click(function () {
+                $(".mask").removeClass("show");
+                $(".header-mobile .mask").css("width", "auto");
+                $(".side-wrap").removeClass("open");
+                $("html").removeClass("menu-mobile-open");
+
+            });
+
+            $(".dr-mobile-menu").click(function () {
+                $(this).find(".sub-menu").slideToggle("show");
+                var s = $(this).attr('class');
+                if (s == 'current-menu-ancestor current-menu-parent dr-mobile-menu') {
+                    $(this).addClass("opened");
+                }
+                else if (s == 'current-menu-ancestor current-menu-parent dr-mobile-menu opened') {
+                    $(this).removeClass("opened");
+                }
+            });
+        });
+    </script>
+</body>
+</html>

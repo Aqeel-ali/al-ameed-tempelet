@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&display=swap');
+
+body {
+    direction: rtl;
+    text-align: right;
+    font-family: 'IBM Plex Sans Arabic', sans-serif !important;
+}
+
+.classynav > ul {
+    display: flex !important;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.classynav > ul > li {
+    float: none !important;
+    display: inline-block !important;
+    position: relative;
+}
+
+.classynav ul li .dropdown li {
+    display: block !important;
+    width: 100%;
+}
+
+.classynav ul li a {
+    display: block;
+    white-space: nowrap;
+}
+
+.classynav ul li .dropdown {
+    right: 0;
+    left: auto;
+    text-align: right;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
+}
+
+.classynav ul li .dropdown li .dropdown {
+    right: 100%;
+    left: auto;
+}
+
+.classy-navbar .nav-brand {
+    margin-right: 0;
+    margin-left: 30px;
+}
+
+.classynav ul li a {
+    text-align: right;
+}
+
+.hero-slides-content {
+    text-align: right;
+}
+
+.section-title {
+    text-align: center;
+}
+
+.single-courses-item .courses-content-bottom .price {
+    float: left;
+}
+
+.single-courses-item .courses-content-bottom h4 {
+    float: right;
+}
+
+.single-choose {
+    padding-left: 0;
+    padding-right: 100px;
+    text-align: right;
+}
+
+.single-choose .icon {
+    left: auto;
+    right: 0;
+}
+
+.footer-area {
+    text-align: right;
+}
+
+.footer-area .single-footer .list li a::before {
+    content: "\ea93";
+    /* icofont-rounded-left instead of right */
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.footer-area .single-footer .list li a {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.footer-area .single-footer .list li a:hover {
+    padding-right: 10px;
+    padding-left: 0;
+}
+
+.footer-area .single-footer .footer-contact-info li {
+    padding-left: 0;
+    padding-right: 35px;
+}
+
+.footer-area .single-footer .footer-contact-info li i {
+    left: auto;
+    right: 0;
+}
+
+.copyright-area ul {
+    text-align: left;
+}
+
+.copyright-area ul li {
+    display: inline-block;
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.pull-right {
+    float: left;
+}
+
+.pull-left {
+    float: right;
+}
+
+/* Owl Carousel RTL Support */
+.owl-carousel {
+    direction: ltr;
+    /* Sliders often need LTR container but RTL items */
+}
+
+.owl-carousel .owl-item {
+    direction: rtl;
+}
+
+.partner-slider .college-item {
+    direction: rtl;
+}
+
+/* Fix for specific sections */
+.why-choose {
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+.event-content .where-when ul.pull-left {
+    float: right;
+}
+
+.event-content .where-when ul {
+    float: left;
+}
+
+.teacher-box .teacher-content .title {
+    text-align: right;
+}
+
+.fun-fact h3 {
+    direction: ltr;
+}
+
+/* Language Switcher and Search Fixes */
+.search-btn i {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.main-header-area .classynav ul li a.search-btn {
+    margin-left: 0;
+    margin-right: 13px;
+}
+
+/* Adjust paddings for nav items if they use pr12/pl12 or hardcoded values */
+.classynav ul li a {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+}
+
+/* Fix dropdown arrow position */
+.classynav ul li.has-down>.dd-arrow,
+.classynav ul li.cn-dropdown-item>.dd-arrow {
+    right: auto !important;
+    left: 10px !important;
+    transform: translateY(-50%);
+}
+
+.classynav ul li.cn-dropdown-item {
+    padding-right: 0;
+    padding-left: 25px !important;
+}
+
+/* Sub-dropdown indicator flip */
+.classynav ul li.cn-dropdown-item .dd-arrow {
+    left: 10px;
+    right: auto;
+    transform: translateY(-50%) rotate(90deg);
+}
+
+/* Responsive fixes for classy-nav */
+@media only screen and (max-width: 991px) {
+    .classy-navbar-toggler {
+        float: left;
+    }
+
+    .classy-menu {
+        left: 0;
+        right: auto;
+        text-align: right;
+    }
+
+    .classynav ul li {
+        width: 100%;
+        text-align: right;
+    }
+}
