@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@100..900&display=swap');
 @use "sass:math";
 
 :root {
@@ -35,9 +35,9 @@
     --error-color: #dc3545;
     --th-border-color5: #49515C;
     --th-border-color6: #383D46;
-    --title-font: "IBM Plex Sans Arabic", sans-serif;
-    --subtitle-font: "IBM Plex Sans Arabic", sans-serif;
-    --body-font: "IBM Plex Sans Arabic", sans-serif;
+    --title-font: "Noto Kufi Arabic", sans-serif;
+    --subtitle-font: "Noto Kufi Arabic", sans-serif;
+    --body-font: "Noto Kufi Arabic", sans-serif;
     --icon-font: "Font Awesome 6 Free";
     --main-container: 1320px;
     --container-gutters: 24px;
@@ -81,6 +81,10 @@ body {
 [class*=" fa-"] {
     font-family: "Font Awesome 6 Free", "Font Awesome 6 Pro", var(--icon-font) !important;
     font-weight: 900;
+}
+
+.flip {
+    transform: scaleX(-1);
 }
 
 .fa-light,
@@ -9013,10 +9017,10 @@ te .footer-widget .widget_title:before {
 .main-menu ul li:has(.sub-menu)>a:after,
 .main-menu ul li:has(.mega-menu)>a:after,
 .main-menu ul li.menu-item-has-children>a:after {
-    content: "\2b";
+    content: "\f078";
     position: relative;
     font-family: var(--icon-font);
-    margin-left: 4px;
+    margin-right: 4px;
     font-weight: 600;
     top: 0;
     font-size: 14px
@@ -31551,5 +31555,117 @@ html[dir="rtl"] .faq-imgbox {
 @media (max-width: 1500px) {
     html[dir="rtl"] .faq-imgbox {
         right: 0;
+    }
+}
+
+/* Fix for top bar navigation dropdowns and padding */
+.top-main-menu>ul {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    gap: 20px;
+}
+
+
+
+.top-main-menu>ul>li>a {
+    padding: 10px 0 !important;
+    color: var(--white-color, #ffffff) !important;
+}
+
+.top-main-menu>ul>li:has(.sub-menu)>a:after,
+.top-main-menu>ul>li.menu-item-has-children>a:after {
+    color: var(--white-color, #ffffff) !important;
+}
+
+/* Ensure sub-menu items are visible (dark text on white background) */
+.top-main-menu .sub-menu a {
+    color: var(--title-color, #01133c) !important;
+}
+
+.top-main-menu .sub-menu a:hover {
+    color: var(--theme-color) !important;
+}
+
+/* 
+.header-button .search-form {
+    display: flex;
+    align-items: center;
+    background-color: var(--theme-color);
+    border-radius: 30px;
+    padding: 5px 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.header-button .search-form:hover,
+.header-button .search-form:focus-within {
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+    transform: translateY(-2px);
+}
+
+.header-button .search-form input {
+    border: none !important;
+    background: transparent !important;
+    color: var(--white-color, #fff) !important;
+    padding: 5px 10px !important;
+    outline: none !important;
+    width: 150px;
+    transition: width 0.3s ease;
+}
+
+.header-button .search-form input::placeholder {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.header-button .search-form input:focus {
+    width: 200px;
+}
+
+.header-button .search-form button {
+    background: transparent !important;
+    border: none !important;
+    color: var(--white-color, #fff) !important;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 0;
+    transition: color 0.3s ease;
+}
+
+.header-button .search-form button:hover {
+    color: var(--title-color, #01133c) !important;
+} */
+
+/* Fix for top bar navigation dropdowns and padding */
+.top-main-menu>ul {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.top-main-menu>ul>li {
+    margin: 0 10px !important;
+}
+
+.top-main-menu>ul>li>a {
+    padding: 10px 0 !important;
+    color: var(--white-color, #ffffff) !important;
+}
+
+.top-main-menu>ul>li:has(.sub-menu)>a:after,
+.top-main-menu>ul>li.menu-item-has-children>a:after {
+    color: var(--white-color, #ffffff) !important;
+}
+
+/* Make main menu wrapper fit its content */
+@media (min-width: 1200px) {
+    .menu-wrapp {
+        width: max-content;
+        margin: 0 auto;
+        padding: 0;
+        background-color: var(--white-color, #ffffff);
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
     }
 }
